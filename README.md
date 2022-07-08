@@ -1,4 +1,4 @@
-### Hi there 👋....finally welcome to my github page!
+### Hi there 👋....Welcome to my github page!
 
 🌱 I’m currently learning python.
 
