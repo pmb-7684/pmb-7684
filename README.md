@@ -1,6 +1,6 @@
 ### Hi there 👋....Welcome to my github page!
 
-🌱 I’m currently learning python and SAS.
+🌱 Life Long Learner.
 
 <!--
 **pmb-7684/pmb-7684** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
